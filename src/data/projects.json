@@ -2,25 +2,25 @@
   {
     "title": "Project Social Media",
     "imageSrc": "projects/socialmedia.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a Future project made to learn the latest languages by building an app.",
     "skills": ["PHP", "MySQL", "Nodejs"],
-    "demo": "https://www.github.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/shinezaw9531",
+    "source": "https://github.com/shinezaw9531"
   },
   {
     "title": "Project UI UX Design World",
     "imageSrc": "projects/uiuxdesign.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a Future project made to learn the latest languages by building an app.",
     "skills": ["Figma", "React Native", "Flutter"],
-    "demo": "https://www.github.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/shinezaw9531",
+    "source": "https://github.com/shinezaw9531"
   },
   {
     "title": "Project OASIS",
     "imageSrc": "projects/oasis.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a Future project made to learn the latest languages by building an app.",
     "skills": ["C#", "Unity", "AR", "VR", "Unreal", "Blender"],
-    "demo": "https://www.github.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/shinezaw9531",
+    "source": "https://github.com/shinezaw9531"
   }
 ]

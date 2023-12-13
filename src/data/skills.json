@@ -8,6 +8,14 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -16,12 +24,16 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "C# ASP.Net",
+    "imageSrc": "skills/csharp.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "GitLab",
+    "imageSrc": "skills/gitlab.png"
   },
   {
     "title": "Figma",

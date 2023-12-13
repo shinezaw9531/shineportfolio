@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "Project Social Media",
+    "imageSrc": "projects/socialmedia.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["PHP", "MySQL", "Nodejs"],
+    "demo": "https://www.github.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "title": "Project UI UX Design World",
+    "imageSrc": "projects/uiuxdesign.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "skills": ["Figma", "React Native", "Flutter"],
+    "demo": "https://www.github.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Project OASIS",
+    "imageSrc": "projects/oasis.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["C#", "Unity", "AR", "VR", "Unreal", "Blender"],
+    "demo": "https://www.github.com",
     "source": "https://www.github.com"
   }
 ]

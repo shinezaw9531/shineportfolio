@@ -23,12 +23,25 @@
     "role": "Freelance Developer",
     "organisation": "My Space",
     "startDate": "Oct, 2023",
-    "endDate": "Present",
+    "endDate": "Jan, 2024",
     "experiences": [
       "Worked on Social Media App",
       "PHP, MySQL, Nodejs, Reactjs for Web App",
       "React Native for Android & IOS"
     ],
     "imageSrc": "history/myspace.png"
+  },
+  {
+    "role": "FullStack Developer",
+    "organisation": "Evokehub",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and maintained backend services using ASP.Net Core API for Audit My Payroll.",
+      "Reporting Using DevExpress in ASP.Net Core API",
+      "Implemented frontend solutions using React.js and TypeScript for Audit My Payroll",
+      "Utilized Azure Cloud CI/CD Platform for continuous integration and deployment."
+    ],
+    "imageSrc": "history/evokehublogo.jpg"
   }
 ]
